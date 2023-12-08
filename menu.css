@@ -1,0 +1,64 @@
+body {background-color: floralwhite;
+			}
+
+#logo 
+{
+		width: 300px;
+
+}
+
+
+
+
+h1 {
+	text-align: center;
+}
+
+a {font-size: 20px;}
+
+.food {height: 150px;
+		width: 150px;
+	}
+
+#contain {}
+
+#img { width:100%;
+		height:200px; }
+
+#one {background-color: goldenrod;
+		padding: 20px;
+	margin: 40px;
+	width: 20%;
+	float: left;
+	}
+
+
+#two {background-color: gold;
+		padding: 20px;
+	margin: 40px;
+	width: 20%;
+		float: left;
+	align-items: 	center;}
+
+
+#three {background-color: yellow;
+		padding: 20px;
+	margin: 40px;
+	width: 20%;
+	float: left; }
+
+#four {background-color: palegoldenrod;
+		padding: 20px;
+	margin: 40px;
+	width: 20%;
+	float: right;
+
+	align-items: 	center;}
+
+#five {background-color: yellowgreen;
+		padding: 20px;
+	margin: 40px;
+	width: 20%;
+	float: right;
+
+	align-items: 	center;}
